@@ -1,0 +1,20 @@
+The C Protein Folding Library.
+Copyright (C) 2009 Andres Colubri.
+Contact: andres.colubri 'AT' gmail.com
+
+The C Protein Folding Library (also known as protlib2) is a minimal libary of C funtions and data structures intended for generating folding simulations of proteins. It is based on a modular architecture that allows to use different sampling algorithms and energy functions.
+
+It provides a Pyhton interface to use within the Bio.PDB module of the Biopython library.
+
+1. How to compile
+Using biopython source distribution, copy the folder Bio/PDB/Fold to Bio/PDB. Overwrite setup.py in the root source distribution of Biopython with the one provided here. 
+
+Then run (from the root of Biopython distribution):
+
+python setup.py build 
+python setup.py install
+
+If compiling on windows, you will need mingw or cygwin, in which case you can do:
+
+python setup.py build -c mingw32
+python setup.py install --skip-build

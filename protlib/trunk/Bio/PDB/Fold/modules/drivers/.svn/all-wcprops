@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/protlib/!svn/ver/148/trunk/Bio/PDB/Fold/modules/drivers
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/protlib/!svn/ver/78/trunk/Bio/PDB/Fold/modules/drivers/debug.c
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/protlib/!svn/ver/56/trunk/Bio/PDB/Fold/modules/drivers/debug.h
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/protlib/!svn/ver/149/trunk/Bio/PDB/Fold/modules/sampling
+END
+sampler.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/protlib/!svn/ver/149/trunk/Bio/PDB/Fold/modules/sampling/sampler.c
+END
+sampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/protlib/!svn/ver/149/trunk/Bio/PDB/Fold/modules/sampling/sampler.h
+END

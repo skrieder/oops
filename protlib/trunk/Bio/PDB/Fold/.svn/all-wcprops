@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/protlib/!svn/ver/149/trunk/Bio/PDB/Fold
+END
+build_from_seq.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/protlib/!svn/ver/138/trunk/Bio/PDB/Fold/build_from_seq.py
+END
+distance_matrix.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/protlib/!svn/ver/98/trunk/Bio/PDB/Fold/distance_matrix.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/protlib/!svn/ver/108/trunk/Bio/PDB/Fold/__init__.py
+END
+rmsd.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/protlib/!svn/ver/105/trunk/Bio/PDB/Fold/rmsd.py
+END

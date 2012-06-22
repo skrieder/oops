@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/protlib/!svn/ver/139/branches/opencl/Bio/PDB/Fold/modules/drivers
+END
+oops.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/protlib/!svn/ver/60/branches/opencl/Bio/PDB/Fold/modules/drivers/oops.c
+END
+oops.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/protlib/!svn/ver/60/branches/opencl/Bio/PDB/Fold/modules/drivers/oops.h
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/protlib/!svn/ver/139/branches/opencl/Bio/PDB/Fold/modules/drivers/debug.c
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/protlib/!svn/ver/60/branches/opencl/Bio/PDB/Fold/modules/drivers/debug.h
+END

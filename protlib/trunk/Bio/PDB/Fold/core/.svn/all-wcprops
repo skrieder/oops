@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/protlib/!svn/ver/149/trunk/Bio/PDB/Fold/core
+END
+strutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/protlib/!svn/ver/149/trunk/Bio/PDB/Fold/core/strutils.h
+END
+distance.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/protlib/!svn/ver/35/trunk/Bio/PDB/Fold/core/distance.h
+END
+base.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/protlib/!svn/ver/18/trunk/Bio/PDB/Fold/core/base.h
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/protlib/!svn/ver/37/trunk/Bio/PDB/Fold/core/constants.h
+END
+protconstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/protlib/!svn/ver/37/trunk/Bio/PDB/Fold/core/protconstants.h
+END
+system.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/protlib/!svn/ver/35/trunk/Bio/PDB/Fold/core/system.h
+END
+datautils.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/protlib/!svn/ver/35/trunk/Bio/PDB/Fold/core/datautils.c
+END
+foldmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/protlib/!svn/ver/35/trunk/Bio/PDB/Fold/core/foldmodule.c
+END
+rotation.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/protlib/!svn/ver/140/trunk/Bio/PDB/Fold/core/rotation.c
+END
+datautils.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/protlib/!svn/ver/35/trunk/Bio/PDB/Fold/core/datautils.h
+END
+foldmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/protlib/!svn/ver/35/trunk/Bio/PDB/Fold/core/foldmodule.h
+END
+fileutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/protlib/!svn/ver/149/trunk/Bio/PDB/Fold/core/fileutils.c
+END
+datatypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/protlib/!svn/ver/18/trunk/Bio/PDB/Fold/core/datatypes.h
+END
+rotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/protlib/!svn/ver/35/trunk/Bio/PDB/Fold/core/rotation.h
+END
+fileutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/protlib/!svn/ver/78/trunk/Bio/PDB/Fold/core/fileutils.h
+END
+vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/protlib/!svn/ver/107/trunk/Bio/PDB/Fold/core/vector.h
+END
+debugutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/protlib/!svn/ver/56/trunk/Bio/PDB/Fold/core/debugutils.c
+END
+modules.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/protlib/!svn/ver/148/trunk/Bio/PDB/Fold/core/modules.c
+END
+memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/protlib/!svn/ver/25/trunk/Bio/PDB/Fold/core/memory.c
+END
+debugutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/protlib/!svn/ver/56/trunk/Bio/PDB/Fold/core/debugutils.h
+END
+errorcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/protlib/!svn/ver/43/trunk/Bio/PDB/Fold/core/errorcodes.h
+END
+modules.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/protlib/!svn/ver/59/trunk/Bio/PDB/Fold/core/modules.h
+END
+memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/protlib/!svn/ver/18/trunk/Bio/PDB/Fold/core/memory.h
+END
+random.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/protlib/!svn/ver/35/trunk/Bio/PDB/Fold/core/random.c
+END
+protein.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/protlib/!svn/ver/128/trunk/Bio/PDB/Fold/core/protein.c
+END
+simulation.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/protlib/!svn/ver/35/trunk/Bio/PDB/Fold/core/simulation.c
+END
+random.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/protlib/!svn/ver/35/trunk/Bio/PDB/Fold/core/random.h
+END
+protein.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/protlib/!svn/ver/128/trunk/Bio/PDB/Fold/core/protein.h
+END
+errorhandler.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/protlib/!svn/ver/43/trunk/Bio/PDB/Fold/core/errorhandler.c
+END
+simulation.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/protlib/!svn/ver/35/trunk/Bio/PDB/Fold/core/simulation.h
+END
+distance.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/protlib/!svn/ver/35/trunk/Bio/PDB/Fold/core/distance.c
+END
+errorhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/protlib/!svn/ver/35/trunk/Bio/PDB/Fold/core/errorhandler.h
+END

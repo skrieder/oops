@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/modules/sampling
+END
+dsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/modules/sampling/dsa.c
+END
+dsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/modules/sampling/dsa.h
+END

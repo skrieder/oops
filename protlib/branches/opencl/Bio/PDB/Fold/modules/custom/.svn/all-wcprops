@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/modules/custom
+END
+carg.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/modules/custom/carg.h
+END
+rbasins.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/modules/custom/rbasins.c
+END
+rbasins.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/modules/custom/rbasins.h
+END
+carg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/modules/custom/carg.c
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/protlib/!svn/ver/148/trunk/Bio/PDB/Fold/modules/custom
+END
+carg.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/protlib/!svn/ver/47/trunk/Bio/PDB/Fold/modules/custom/carg.h
+END
+carg.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/protlib/!svn/ver/48/trunk/Bio/PDB/Fold/modules/custom/carg.c
+END

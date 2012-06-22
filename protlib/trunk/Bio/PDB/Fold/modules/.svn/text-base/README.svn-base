@@ -1,0 +1,10 @@
+The C Protein Folding Library implements a modular system of source modules, that should be follows in order
+to extend the core functionality of the library (which is rather minimal). 
+
+Modules are clasified in the following types:
+* sampling: implement sampling methodologies to move in conformational space.
+* energy: implement energy functions.
+* drivers: simulation driver modules that control the flow of a whole simulation.
+* custom: user-defined calculations, such as secondary structure assignements, etc.
+
+Finally data and types common to more than one module should be defined in the shared folder.

@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/protlib/!svn/ver/139/branches/opencl/Bio/PDB/Fold/core
+END
+strutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/core/strutils.h
+END
+distance.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/core/distance.h
+END
+base.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/protlib/!svn/ver/60/branches/opencl/Bio/PDB/Fold/core/base.h
+END
+clutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/protlib/!svn/ver/139/branches/opencl/Bio/PDB/Fold/core/clutils.c
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/core/constants.h
+END
+clutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/protlib/!svn/ver/139/branches/opencl/Bio/PDB/Fold/core/clutils.h
+END
+protconstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/core/protconstants.h
+END
+system.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/protlib/!svn/ver/60/branches/opencl/Bio/PDB/Fold/core/system.h
+END
+foldmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/protlib/!svn/ver/60/branches/opencl/Bio/PDB/Fold/core/foldmodule.c
+END
+datautils.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/core/datautils.c
+END
+rotation.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/protlib/!svn/ver/126/branches/opencl/Bio/PDB/Fold/core/rotation.c
+END
+foldmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/core/foldmodule.h
+END
+datautils.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/core/datautils.h
+END
+datatypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/core/datatypes.h
+END
+rotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/core/rotation.h
+END
+debugutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/core/debugutils.c
+END
+fileio.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/core/fileio.c
+END
+vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/core/vector.h
+END
+modules.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/protlib/!svn/ver/60/branches/opencl/Bio/PDB/Fold/core/modules.c
+END
+memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/core/memory.c
+END
+fileio.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/core/fileio.h
+END
+debugutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/core/debugutils.h
+END
+errorcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/core/errorcodes.h
+END
+modules.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/protlib/!svn/ver/60/branches/opencl/Bio/PDB/Fold/core/modules.h
+END
+memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/core/memory.h
+END
+random.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/core/random.c
+END
+protein.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/core/protein.c
+END
+simulation.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/core/simulation.c
+END
+random.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/core/random.h
+END
+protein.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/core/protein.h
+END
+errorhandler.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/core/errorhandler.c
+END
+simulation.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/core/simulation.h
+END
+distance.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/protlib/!svn/ver/60/branches/opencl/Bio/PDB/Fold/core/distance.c
+END
+errorhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/protlib/!svn/ver/57/branches/opencl/Bio/PDB/Fold/core/errorhandler.h
+END

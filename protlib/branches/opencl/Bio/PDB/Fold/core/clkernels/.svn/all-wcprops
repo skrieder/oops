@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/protlib/!svn/ver/60/branches/opencl/Bio/PDB/Fold/core/clkernels
+END
+dist_calc.cl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/protlib/!svn/ver/60/branches/opencl/Bio/PDB/Fold/core/clkernels/dist_calc.cl
+END

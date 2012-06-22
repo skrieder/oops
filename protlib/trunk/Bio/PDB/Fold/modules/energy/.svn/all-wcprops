@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/protlib/!svn/ver/149/trunk/Bio/PDB/Fold/modules/energy
+END
+energy.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/protlib/!svn/ver/149/trunk/Bio/PDB/Fold/modules/energy/energy.h
+END
+energy.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/protlib/!svn/ver/149/trunk/Bio/PDB/Fold/modules/energy/energy.c
+END
